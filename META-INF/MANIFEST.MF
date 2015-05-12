@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: POM
+Bundle-SymbolicName: POM
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: POM.jar,
+ 460401/Downloads/selenium-server-standalone-2.44.0.jar,
+ .
+Export-Package: Test,
+ Utilities,
+ pageObjects
